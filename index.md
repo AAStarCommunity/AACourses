@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "AACourses"
-  text: "A free courses collection about Blockchain Account."
+  text: "A free course collection about Blockchain Account."
   tagline: Leveraging the Power of Community for AA Eco!
   actions:
     - theme: brand
