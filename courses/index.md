@@ -3,6 +3,7 @@
 We will show you some basic courses about Blockchain Account, AA and more.
 
 ## List
++ One class is about 25 minutes and 5 minutes for Q&A.
 
 ### Industry
 
